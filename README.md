@@ -14,14 +14,14 @@
 <tr>
 <td align="center"><b>Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,js,html,css" />
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
 </td>
 </tr>
 
