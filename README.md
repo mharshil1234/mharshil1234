@@ -1,8 +1,8 @@
 <div align="center">
 
-# Harshil Maheshwari
-
-### Building fun stuff on the internet
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=building+cool+stuff" />
+</p>
 
 </div>
 
