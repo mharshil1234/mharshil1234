@@ -15,32 +15,32 @@
 <tr>
 <td align="center"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python" />
 </td>
 </tr>
-  
+
 <tr>
 <td align="center"><b>Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase" />
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>DevOps</b></td>
+<td align="center"><b>Tools & DevOps</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=prisma,docker,linux,git,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vercel,vscode" />
 </td>
 </tr>
 </table>
 
-## Contributions
+<br>
 
-![Snake animation](https://raw.githubusercontent.com/mharshil1234/mharshil1234/output/github-contribution-grid-snake.svg)
+![Harshil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mharshil1234&theme=github-dark)
