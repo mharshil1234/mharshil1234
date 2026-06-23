@@ -36,8 +36,11 @@
 <tr>
 <td align="center"><b>DevOps</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=prisma,docker,linux,git,bash,vscode" />
 </td>
 </tr>
 </table>
 
+## Contributions
+
+![Snake animation](https://raw.githubusercontent.com/mharshil1234/mharshil1234/output/github-contribution-grid-snake.svg)
