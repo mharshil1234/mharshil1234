@@ -40,7 +40,3 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-![Harshil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mharshil1234&theme=github-dark)
