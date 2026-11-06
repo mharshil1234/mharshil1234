@@ -15,7 +15,7 @@
 <tr>
 <td align="center"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,go" />
 </td>
 </tr>
 
@@ -36,7 +36,7 @@
 <tr>
 <td align="center"><b>Tools & DevOps</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,bash,vercel,cloudflare,vscode" />
 </td>
 </tr>
 </table>
